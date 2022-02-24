@@ -1,0 +1,5 @@
+A|TM0003|22-02-2022|REGULAR
+IT0031|Grocery|ABC Surf|1|1
+IT0025|Book|Zero to One, Peter Thiel|1|5
+B-001,Hinjewadi-1|Pune|Maharashtra|411057|9999911111
+
